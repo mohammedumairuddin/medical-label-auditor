@@ -1,6 +1,6 @@
 # Medical Label Auditor
 
-An agentic AI system for automated label auditing and mislabel detection in medical imaging datasets. Built as an MSc Artificial Intelligence dissertation project at the University of Surrey.
+An agentic AI system for automated label auditing and mislabel detection in medical imaging datasets.
 
 ## Overview
 
